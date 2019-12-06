@@ -1,0 +1,7 @@
+https://www.analyticsvidhya.com/blog/2018/03/introduction-k-neighbours-algorithm-clustering/
+
+https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761
+
+https://www.geeksforgeeks.org/k-nearest-neighbours/
+
+https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_knn_algorithm_finding_nearest_neighbors.htm
