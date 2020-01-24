@@ -6,3 +6,7 @@ https://www.youtube.com/watch?v=8PJ24SrQqy8&list=PL3pGy4HtqwD2a57wl7Cl7tmfxfk7JW
 
 
 Decisiontree.jpg - provides an example to decide whether to play tennis or not
+
+
+
+https://pysource.com/2018/07/20/find-similarities-between-two-images-with-opencv-and-python/
