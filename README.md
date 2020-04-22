@@ -10,3 +10,7 @@ Decisiontree.jpg - provides an example to decide whether to play tennis or not
 
 
 https://pysource.com/2018/07/20/find-similarities-between-two-images-with-opencv-and-python/
+
+
+
+https://www.kaggle.com/jsaguiar/lightgbm-with-simple-features/data
