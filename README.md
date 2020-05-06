@@ -16,3 +16,6 @@ https://pysource.com/2018/07/20/find-similarities-between-two-images-with-opencv
 https://www.kaggle.com/jsaguiar/lightgbm-with-simple-features/data
 
 https://aihub.cloud.google.com/p/products%2F68eb0841-ce11-4f72-acbe-df2314dae6f7
+
+
+https://rargb.to/torrent/freecourseweb-pluralsight-expediting-deep-learning-with-transfer-learning-pytorch-playbook-3918321.html
